@@ -1,0 +1,5 @@
+package: glide_test
+import:
+  - package: github.com/kylelemons/go-gypsy
+    repo:    https://github.com/kylelemons/go-gypsy
+    vcs:     git
